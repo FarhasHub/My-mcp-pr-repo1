@@ -1,2 +1,5 @@
 # My-mcp-pr-repo1
-Repository created via MCP. MCP rocks!
+
+This file is created via MCP.
+
+MCP rocks!
